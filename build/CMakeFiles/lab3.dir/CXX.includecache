@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/projects/Lab3/Func_S.cpp
+math.h
+-
+Func_S.h
+/home/user/projects/Lab3/Func_S.h
+Func_xi.h
+/home/user/projects/Lab3/Func_xi.h
+Func_yi.h
+/home/user/projects/Lab3/Func_yi.h
+
+/home/user/projects/Lab3/Func_S.h
+
+/home/user/projects/Lab3/Func_xi.cpp
+math.h
+-
+Func_xi.h
+/home/user/projects/Lab3/Func_xi.h
+
+/home/user/projects/Lab3/Func_xi.h
+
+/home/user/projects/Lab3/Func_yi.cpp
+math.h
+-
+Func_yi.h
+/home/user/projects/Lab3/Func_yi.h
+
+/home/user/projects/Lab3/Func_yi.h
+
+/home/user/projects/Lab3/main.cpp
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+Func_S.h
+/home/user/projects/Lab3/Func_S.h
+

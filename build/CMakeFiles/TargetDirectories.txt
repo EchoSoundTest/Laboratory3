@@ -1,0 +1,7 @@
+/home/user/projects/Lab3/build/CMakeFiles/install/strip.dir
+/home/user/projects/Lab3/build/CMakeFiles/edit_cache.dir
+/home/user/projects/Lab3/build/CMakeFiles/lab3.dir
+/home/user/projects/Lab3/build/CMakeFiles/rebuild_cache.dir
+/home/user/projects/Lab3/build/CMakeFiles/list_install_components.dir
+/home/user/projects/Lab3/build/CMakeFiles/install/local.dir
+/home/user/projects/Lab3/build/CMakeFiles/install.dir
